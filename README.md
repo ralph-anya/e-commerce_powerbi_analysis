@@ -65,7 +65,7 @@ Relationships were established to enable time-based analysis.
 
 ## Key Insights
 
-- Revenue showed consistent growth from 2016 to 2018, with a peak in November 2017 which suggests the significant impact of seasonal events such as promotional campaigns (e.g. Black Friday) on promotional peroformance.
+- Revenue showed consistent growth from 2016 to 2018, with a peak in November 2017 (drill down on Revenue-Trend-Over-Time line graph) which suggests the significant impact of seasonal events such as promotional campaigns (e.g. Black Friday) on promotional peroformance.
 - Geographically, Sao Paulo (SP) accounts for the largest share (a third) of the total revenue, reflecting its economic significance and customer density. However, this concentration also presents an opportunity to expand into underperforming regions to drive further growth.
 - Top 10 product categories contribute approximately 63%  of total revenue, indicating a classic Pareto distribution where a small subset of categories drives the majority of business performance.
 - Of the 73 product categories, the majority contribute relatively little to total revenue, highlighting the presence of a long tial of underperforming products.

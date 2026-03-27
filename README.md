@@ -58,6 +58,32 @@ Total Revenue = SUM('Olist Orders'[Price])
 Total Orders = DISTINCTCOUNT('Olist Orders'[Order ID])
 ```
 
+**Average Order Value (AOV)**
+```
+Avg Order Value = DIVIDE([Total Revenue], [Total Orders])
+```
+
+**Delivery Status**
+```
+Delivery Status = 
+SWITCH(
+    TRUE(),
+    ISBLANK('Olist Orders'[Late Delivery Flag]), BLANK(),
+    'Olist Orders'[Late Delivery Flag] = 0, "On-Time",
+    'Olist Orders'[Late Delivery Flag] = 1, "Late"
+    )
+```
+
+**Repeat Customers**
+```
+Repeat Customers = 
+CALCULATE(
+    DISTINCTCOUNT('Olist Orders'[Customer Unique ID]),
+    FILTER(VALUES('Olist Orders'[Customer Unique ID]),
+    [Orders per Customer] > 1)
+)
+```
+
 ## Dashboard Overview
 
 ### Executive Overview

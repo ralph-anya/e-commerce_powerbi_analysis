@@ -46,7 +46,7 @@ Relationships were established to enable time-based analysis.
 
 ## Key DAX Measures
 
-Some of the key measures created for this analysis include:
+Some of the key measures and calculated fields created for this analysis include:
 
 **Total Revenue**
 ```

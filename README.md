@@ -49,12 +49,14 @@ Relationships were established to enable time-based analysis.
 Some of the key measures created for this analysis include:
 
 **Total Revenue**
-```DAX
+```
 Total Revenue = SUM('Olist Orders'[Price])
+```
 
 **Total Orders**
+```
 Total Orders = DISTINCTCOUNT('Olist Orders'[Order ID])
-
+```
 
 ## Dashboard Overview
 

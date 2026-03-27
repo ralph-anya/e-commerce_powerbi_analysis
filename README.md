@@ -55,3 +55,12 @@ Relationships were established to enable time-based analysis.
 
 <img width="1686" height="950" alt="Product analysis" src="https://github.com/user-attachments/assets/dee25e20-e35b-4cbf-8380-1a6fe3513397" />
 
+### Customer Analysis
+
+<img width="1684" height="952" alt="Customer Analysis" src="https://github.com/user-attachments/assets/1200bc15-173c-4381-b0ec-56ee6c2d8298" />
+
+### Delivery Vs Customer Experience
+
+<img width="1686" height="950" alt="Delivery Vs Customer Experience" src="https://github.com/user-attachments/assets/e9aeb439-b2ee-48f1-8337-87b60cb532f3" />
+
+

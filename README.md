@@ -25,6 +25,17 @@ The analysis combines SQL for data preparation and Power BI for interactive visu
 * Power BI - Data Modeling and Visualisation
 * DAX - Measures and Calculated Columns
 
+## Skills & Techniques Demonstrated
+
+- Data Cleaning & Transformation using Power Query
+- Data Modeling (Star Schema Design)
+- DAX Measures & Calculated Columns
+- Time Intelligence Analysis
+- KPI Development (Revenue, AOV)
+- Dasboard Design & Data Storytelling
+- Interactive Visualisations (Slicers, Drilldowns, Filters)
+- Business Insight Generation
+
 ## Data Preparation
 Data was cleaned and transformed using MySQL by:
 * Joining multiple fields from multiple tables to create a joined dataset.

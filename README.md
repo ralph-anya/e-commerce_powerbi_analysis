@@ -47,8 +47,11 @@ Relationships were established to enable time-based analysis.
 ## Dashboard Overview
 
 ### Executive Overview
-<img width="1894" height="1064" alt="Exec Overview" src="https://github.com/user-attachments/assets/142e4b71-76b2-43f3-9694-137d2f76e0ab" />
+
+<img width="1682" height="950" alt="Exec Overview" src="https://github.com/user-attachments/assets/23e4a5bd-c9da-4aa5-bba5-fa119b1425ce" />
+
 
 ### Product Analysis
+
 <img width="1686" height="950" alt="Product analysis" src="https://github.com/user-attachments/assets/dee25e20-e35b-4cbf-8380-1a6fe3513397" />
 

@@ -63,4 +63,28 @@ Relationships were established to enable time-based analysis.
 
 <img width="1686" height="950" alt="Delivery Vs Customer Experience" src="https://github.com/user-attachments/assets/e9aeb439-b2ee-48f1-8337-87b60cb532f3" />
 
+## Key Insights
 
+- Revenue showed consistent growth from 2016 to 2018, with a peak in November 2017 which suggests the significant impact of seasonal events such as promotional campaigns (e.g. Black Friday) on promotional peroformance.
+- Geographically, Sao Paulo (SP) accounts for the largest share (a third) of the total revenue, reflecting its economic significance and customer density. However, this concentration also presents an opportunity to expand into underperforming regions to drive further growth.
+- Top 10 product categories contribute approximately 63%  of total revenue, indicating a classic Pareto distribution where a small subset of categories drives the amjority of business performance.
+- Of the 73 product categories, the majority contribute relatively little to total revenue, highlighting the presence of a long tial of underperforming products.
+- Approximately 80% of product categories fall within a low average order value (AOV) range, including the top revenue-generating categories. This suggests overall revenue is primarily driven by high transcation volume rather than high-value purchases, indicating a volume-driven business model.
+- Notably, the category with the highest AOV i sont amongst the top revenue-generating categories, suggesting that high-value products are not being purchased frequently enough to significantly impact total revenue. This points to a potential growth opportunity where improving the visibility or demand for high-value products could significantly increase overall revenue.
+- Majority of customers are one-time buyers rather than repeat customers, indicating a heavy reliance on continuous acquisition (an acquisition-driven business model) rather than customer retention (low customer retention).
+- Most customers fall within the low lifetime value segment (R$ 0-300), suggesting limited lnog-term engagement. Despite this, customers exhibit relatively high AOV (> R$1000), indicating that whiel individual transactions are valuable, they are not frequent.
+- There is a significant gap in customer satisfaction betwen on-time and late deliveries, with on-time orders achieving an average reivew score of 4.3 compared to just 2.6 for late deliveries. This indicates that delivery performance is a key driver of customer satisfaction.
+- Most deliveries are completed within 20 days, aligning with the observed range where customer satisfaction remains relatively stable.
+- Interestingly, a large proportion of repeat customers fall within the lower review score groups (<=3), suggesting that some customers continue purchasing despite suboptimal experiences. This indicates that other factors such as price, product availability, or necessity, may influence repeat purchases beyond customer satisfaction alone.
+
+## Recommendations
+
+- **Optimise Delivery Operations to Improve Customer Satisfaction**: This can be done by identifying regions or sellers with high late-delivery rates, enhancing delivery tracking and communication with customers, and setting realistic delivery expectations to avoid dissatisfaction.
+- **Implement Customer Retention Strategies**: Can be done by introducing loyalty programs, and providing incentives for second purchases (discounts, bundles).
+- **Leverage Top-Performing Product Categories**: Can be done by prioritizing management of top categories, bundle popular products to increase basket size, and ensure consistent availability to avoid lost sales.
+- **Unlock High-Value Product Potential**: Can be done by promoting high-value products through targeted campaigns, offering financing options or discounts for high-ticket items, and use cross-selling strategies to introduce premium products.
+
+## Author
+
+Ralph Manachi
+Data Analyst

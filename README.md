@@ -81,10 +81,11 @@ Relationships were established to enable time-based analysis.
 
 - **Optimise Delivery Operations to Improve Customer Satisfaction**: This can be done by identifying regions or sellers with high late-delivery rates, enhancing delivery tracking and communication with customers, and setting realistic delivery expectations to avoid dissatisfaction.
 - **Implement Customer Retention Strategies**: Can be done by introducing loyalty programs, and providing incentives for second purchases (discounts, bundles).
-- **Leverage Top-Performing Product Categories**: Can be done by prioritizing management of top categories, bundle popular products to increase basket size, and ensure consistent availability to avoid lost sales.
-- **Unlock High-Value Product Potential**: Can be done by promoting high-value products through targeted campaigns, offering financing options or discounts for high-ticket items, and use cross-selling strategies to introduce premium products.
+- **Leverage Top-Performing Product Categories**: Can be done by prioritizing management of top categories, bundling popular products to increase basket size, and ensuring consistent availability to avoid lost sales.
+- **Unlock High-Value Product Potential**: Can be done by promoting high-value products through targeted campaigns, offering financing options or discounts for high-ticket items, and using cross-selling strategies to introduce premium products.
 
 ## Author
 
 Ralph Manachi
+
 Data Analyst
